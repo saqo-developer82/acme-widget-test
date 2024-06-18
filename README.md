@@ -14,6 +14,3 @@ Databese MySql
 6. To see the basket with products click on ***Go To Basket*** button
 7. In basket page you can see the list of products in the basket with the following  info ***Product Name***, ***Product Code***, ***Unit Price***, ***Total Price for the product***, ***Total Price without Delivery***, ***Delivery Cost*** and ***Total Price***
 8. You can confirm the order. After it, the new product/s will be added to new basket.
-
-This is the video how to use
-https://app.screencastify.com/v2/manage/videos/CTCIgcwl7KDfBHMpqBNE
